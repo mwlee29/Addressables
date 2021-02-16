@@ -1,0 +1,241 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 07d6cfc8862ef3446ba4f220a21aeec1
+  m_SerializeEntries:
+  - m_GUID: 009f61e23c0ffbf4b9488a3a65039764
+    m_Address: Crops/Pumpkin_Dead.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Crops
+    m_MainAsset: {fileID: 197348560603698192, guid: 009f61e23c0ffbf4b9488a3a65039764,
+      type: 3}
+    m_TargetAsset: {fileID: 197348560603698192, guid: 009f61e23c0ffbf4b9488a3a65039764,
+      type: 3}
+  - m_GUID: 00bf1687dd148e64585b5c58a55fb72e
+    m_Address: Crops/Aubergine_Dead.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Crops
+    m_MainAsset: {fileID: 4452904368400913673, guid: 00bf1687dd148e64585b5c58a55fb72e,
+      type: 3}
+    m_TargetAsset: {fileID: 4452904368400913673, guid: 00bf1687dd148e64585b5c58a55fb72e,
+      type: 3}
+  - m_GUID: 13f24497a16bd234280ad21af2eeb36f
+    m_Address: Crops/Aubergine_Done.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Crops
+    m_MainAsset: {fileID: 8653027266547929363, guid: 13f24497a16bd234280ad21af2eeb36f,
+      type: 3}
+    m_TargetAsset: {fileID: 8653027266547929363, guid: 13f24497a16bd234280ad21af2eeb36f,
+      type: 3}
+  - m_GUID: 1c0f33032e640da438ce726ca27bb816
+    m_Address: Crops/Strawberries_Dead.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Crops
+    m_MainAsset: {fileID: 2922490074576344302, guid: 1c0f33032e640da438ce726ca27bb816,
+      type: 3}
+    m_TargetAsset: {fileID: 2922490074576344302, guid: 1c0f33032e640da438ce726ca27bb816,
+      type: 3}
+  - m_GUID: 38cb6d4fce9ebc7409745bef5a914da1
+    m_Address: Characters/DarkWizard.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Characters
+    m_MainAsset: {fileID: 8470393256464136947, guid: 38cb6d4fce9ebc7409745bef5a914da1,
+      type: 3}
+    m_TargetAsset: {fileID: 8470393256464136947, guid: 38cb6d4fce9ebc7409745bef5a914da1,
+      type: 3}
+  - m_GUID: 3c6f78a7397ee72458a1074eb242055d
+    m_Address: Characters/Brute.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Characters
+    m_MainAsset: {fileID: 8989974904651491588, guid: 3c6f78a7397ee72458a1074eb242055d,
+      type: 3}
+    m_TargetAsset: {fileID: 8989974904651491588, guid: 3c6f78a7397ee72458a1074eb242055d,
+      type: 3}
+  - m_GUID: 456343925d2b3074691210af495294a6
+    m_Address: Items/Coin.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+    m_MainAsset: {fileID: 5373747165062627933, guid: 456343925d2b3074691210af495294a6,
+      type: 3}
+    m_TargetAsset: {fileID: 5373747165062627933, guid: 456343925d2b3074691210af495294a6,
+      type: 3}
+  - m_GUID: 47ca82e7750bb9140af9fdc9cc8cd317
+    m_Address: Crops/Strawberries_Done.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Crops
+    m_MainAsset: {fileID: 9103594936317848501, guid: 47ca82e7750bb9140af9fdc9cc8cd317,
+      type: 3}
+    m_TargetAsset: {fileID: 9103594936317848501, guid: 47ca82e7750bb9140af9fdc9cc8cd317,
+      type: 3}
+  - m_GUID: 49247298c355b0c47aab0a1132b75d01
+    m_Address: Items/Meat.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+    m_MainAsset: {fileID: 4071290518148173537, guid: 49247298c355b0c47aab0a1132b75d01,
+      type: 3}
+    m_TargetAsset: {fileID: 4071290518148173537, guid: 49247298c355b0c47aab0a1132b75d01,
+      type: 3}
+  - m_GUID: 712a4ef8d9184e14d9d88bff7195beaf
+    m_Address: Crops/Pumpkin_Done.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Crops
+    m_MainAsset: {fileID: 5228469359213284459, guid: 712a4ef8d9184e14d9d88bff7195beaf,
+      type: 3}
+    m_TargetAsset: {fileID: 5228469359213284459, guid: 712a4ef8d9184e14d9d88bff7195beaf,
+      type: 3}
+  - m_GUID: 722b6e4c43b5595468d5198d8cdc3983
+    m_Address: Characters/Commoner.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Characters
+    m_MainAsset: {fileID: 5279611506355512168, guid: 722b6e4c43b5595468d5198d8cdc3983,
+      type: 3}
+    m_TargetAsset: {fileID: 5279611506355512168, guid: 722b6e4c43b5595468d5198d8cdc3983,
+      type: 3}
+  - m_GUID: 739ed42f0bc733743a3d531909250d4a
+    m_Address: Items/Diamond.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+    m_MainAsset: {fileID: 862002411348657891, guid: 739ed42f0bc733743a3d531909250d4a,
+      type: 3}
+    m_TargetAsset: {fileID: 862002411348657891, guid: 739ed42f0bc733743a3d531909250d4a,
+      type: 3}
+  - m_GUID: 920ff55bd742fe145a5b46b7e8871e9d
+    m_Address: Crops/Aubergine_Seed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Crops
+    m_MainAsset: {fileID: 8308355884719788639, guid: 920ff55bd742fe145a5b46b7e8871e9d,
+      type: 3}
+    m_TargetAsset: {fileID: 8308355884719788639, guid: 920ff55bd742fe145a5b46b7e8871e9d,
+      type: 3}
+  - m_GUID: 9dc99395adc765a49ad15bd01e147794
+    m_Address: Crops/Potatoes_Seed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Crops
+    m_MainAsset: {fileID: 980224713816248785, guid: 9dc99395adc765a49ad15bd01e147794,
+      type: 3}
+    m_TargetAsset: {fileID: 980224713816248785, guid: 9dc99395adc765a49ad15bd01e147794,
+      type: 3}
+  - m_GUID: a2faba05f5712694687eeb2ec0932f13
+    m_Address: Characters/Dragon.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Characters
+    m_MainAsset: {fileID: 458630774707980361, guid: a2faba05f5712694687eeb2ec0932f13,
+      type: 3}
+    m_TargetAsset: {fileID: 458630774707980361, guid: a2faba05f5712694687eeb2ec0932f13,
+      type: 3}
+  - m_GUID: a43b77bc4cd79724fba9c0c4b419d4fb
+    m_Address: Characters/Troll.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Characters
+    m_MainAsset: {fileID: 3261961265509153384, guid: a43b77bc4cd79724fba9c0c4b419d4fb,
+      type: 3}
+    m_TargetAsset: {fileID: 3261961265509153384, guid: a43b77bc4cd79724fba9c0c4b419d4fb,
+      type: 3}
+  - m_GUID: c77be428963245d41b20c2de971ec013
+    m_Address: Items/Egg.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+    m_MainAsset: {fileID: 2799479108166695192, guid: c77be428963245d41b20c2de971ec013,
+      type: 3}
+    m_TargetAsset: {fileID: 2799479108166695192, guid: c77be428963245d41b20c2de971ec013,
+      type: 3}
+  - m_GUID: d422238324b95424bbc4848896051810
+    m_Address: Items/Coal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Items
+    m_MainAsset: {fileID: 8756993913398809206, guid: d422238324b95424bbc4848896051810,
+      type: 3}
+    m_TargetAsset: {fileID: 8756993913398809206, guid: d422238324b95424bbc4848896051810,
+      type: 3}
+  - m_GUID: d809b8f35bb3c8540b7d426fcf544276
+    m_Address: Crops/Pumpkin_Seed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Crops
+    m_MainAsset: {fileID: 1168434213816483542, guid: d809b8f35bb3c8540b7d426fcf544276,
+      type: 3}
+    m_TargetAsset: {fileID: 1168434213816483542, guid: d809b8f35bb3c8540b7d426fcf544276,
+      type: 3}
+  - m_GUID: e0bca2b2bc178d3408e17224f96c6073
+    m_Address: Crops/Potatoes_Done.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Crops
+    m_MainAsset: {fileID: 8726932545768353357, guid: e0bca2b2bc178d3408e17224f96c6073,
+      type: 3}
+    m_TargetAsset: {fileID: 8726932545768353357, guid: e0bca2b2bc178d3408e17224f96c6073,
+      type: 3}
+  - m_GUID: e2d7ccc875080074ba7ee4683076d485
+    m_Address: Crops/Strawberries_Seed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Crops
+    m_MainAsset: {fileID: 6451093244580130564, guid: e2d7ccc875080074ba7ee4683076d485,
+      type: 3}
+    m_TargetAsset: {fileID: 6451093244580130564, guid: e2d7ccc875080074ba7ee4683076d485,
+      type: 3}
+  - m_GUID: e31267916edf36a45ad74631f05606b1
+    m_Address: Characters/Princess.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Characters
+    m_MainAsset: {fileID: 4626733868035937978, guid: e31267916edf36a45ad74631f05606b1,
+      type: 3}
+    m_TargetAsset: {fileID: 4626733868035937978, guid: e31267916edf36a45ad74631f05606b1,
+      type: 3}
+  - m_GUID: e54be94e2196ce44089aec6d5856aa2c
+    m_Address: Characters/LightWizard.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Characters
+    m_MainAsset: {fileID: 4580923517278530709, guid: e54be94e2196ce44089aec6d5856aa2c,
+      type: 3}
+    m_TargetAsset: {fileID: 4580923517278530709, guid: e54be94e2196ce44089aec6d5856aa2c,
+      type: 3}
+  - m_GUID: e91acf4dd689aa1499435efa03a35fca
+    m_Address: Crops/Potatoes_Dead.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Crops
+    m_MainAsset: {fileID: 829398421926421393, guid: e91acf4dd689aa1499435efa03a35fca,
+      type: 3}
+    m_TargetAsset: {fileID: 829398421926421393, guid: e91acf4dd689aa1499435efa03a35fca,
+      type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 00e4f745474636d4fb462b49479475c1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2a789fbdf1d0ca3448d661e42b017b2c, type: 2}
+    - {fileID: 11400000, guid: 823df6cfe5f01c94891901fb6e75420a, type: 2}
